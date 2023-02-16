@@ -80,7 +80,7 @@ export default function PageProductForm() {
                   <Field
                     component={TextField}
                     name="price"
-                    label="Price ($)"
+                    label="Price ($ cents)"
                     fullWidth
                     autoComplete="off"
                     required

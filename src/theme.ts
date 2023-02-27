@@ -33,3 +33,5 @@ export const theme = createTheme({
     tonalOffset: 0.2,
   },
 });
+
+theme.spacing(2);
